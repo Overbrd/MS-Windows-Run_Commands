@@ -1,0 +1,10 @@
+netsh winsock reset
+
+
+---
+
+Reset WINSOCK entries to installation defaults: netsh winsock reset catalog
+
+Reset TCP/IP stack to installation defaults. netsh int ip reset reset.log
+
+Reboot the machine.

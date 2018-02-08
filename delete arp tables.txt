@@ -1,0 +1,7 @@
+netsh interface ip delete arpcache
+
+netsh firewall reset
+
+netsh int ip reset reset.log
+
+netsh winsock reset catalog
